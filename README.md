@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Node.js, Spring, React /n
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sally0226)](https://solved.ac/sally0226)
