@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![sally0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=sally0226&count_private=true)](https://github.com/sally0226/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sally0226)](https://solved.ac/sally0226)
 
