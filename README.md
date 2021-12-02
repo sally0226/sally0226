@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sally0226)](https://solved.ac/sally0226)
 
 🌱 BLOG : https://bba-dda.tistory.com/
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsally0226&count_bg=%237ACBE5&title_bg=%23555555&icon=github.svg&icon_color=%23DDDDDD&title=hits&edge_flat=false"/></a>
+</div>
