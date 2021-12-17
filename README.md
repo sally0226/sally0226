@@ -1,5 +1,3 @@
-### Hi, I'm Bada ⛵
-
 <!--
 **sally0226/sally0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+92B5D9
 -->
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F0F8FF&height=250&section=header&text=Bada's Git&fontSize=70&fontColor=696969" />
+</div>
 
 ### Skills
 <div>
@@ -40,4 +42,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsally0226&count_bg=%237ACBE5&title_bg=%23555555&icon=github.svg&icon_color=%23DDDDDD&title=hits&edge_flat=false"/></a>
+</div>
+<br/>
+<br/>
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F0F8FF&height=250&section=footer" />
 </div>
