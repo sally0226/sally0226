@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 92B5D9
 -->
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F0F8FF&height=250&section=header&text=Bada's Git&fontSize=70&fontColor=696969" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F0F8FF&height=250&section=header&text=Bada Kim&fontSize=70&fontColor=696969" />
 </div>
 
 ### Skills
