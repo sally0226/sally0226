@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-🌱 [BLOG](https://bba-dda.tistory.com/) |
- [RESUME](https://befitting-tapir-064.notion.site/4d655f7683b04f50876667d42179857f)
+🌱 [BLOG](https://bba-dda.tistory.com/)
 
 <br/>
 
